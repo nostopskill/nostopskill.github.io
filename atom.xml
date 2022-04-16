@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>不止技能</title>
+  
+  
+  <link href="https://nostopskill.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://nostopskill.github.io/"/>
+  <updated>2022-04-16T13:36:19.713Z</updated>
+  <id>https://nostopskill.github.io/</id>
+  
+  <author>
+    <name>nostopskill</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Accounts</title>
+    <link href="https://nostopskill.github.io/2022/01/02/accounts/"/>
+    <id>https://nostopskill.github.io/2022/01/02/accounts/</id>
+    <published>2022-01-02T14:19:55.000Z</published>
+    <updated>2022-04-16T13:36:19.713Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;邮箱&quot;&gt;&lt;a href=&quot;#邮箱&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="hide" scheme="https://nostopskill.github.io/categories/hide/"/>
+    
+    
+    <category term="hide" scheme="https://nostopskill.github.io/tags/hide/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>thisisaceshi</title>
+    <link href="https://nostopskill.github.io/2022/01/02/thisisaceshi/"/>
+    <id>https://nostopskill.github.io/2022/01/02/thisisaceshi/</id>
+    <published>2022-01-02T13:23:59.000Z</published>
+    <updated>2022-01-02T13:24:27.709Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;div class=&quot;start-screen-recording-mid recording-style-black&quot;&gt;&lt;div&gt;&lt;div class=&quot;rec-dot&quot;&gt;&lt;/div&gt;&lt;span&gt;开始录制&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;script</summary>
+        
+      
+    
+    
+    
+    <category term="软件测试" scheme="https://nostopskill.github.io/categories/%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95/"/>
+    
+    
+    <category term="录屏" scheme="https://nostopskill.github.io/tags/%E5%BD%95%E5%B1%8F/"/>
+    
+  </entry>
+  
+</feed>
