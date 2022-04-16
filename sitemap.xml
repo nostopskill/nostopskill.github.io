@@ -2,15 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://nostopskill.github.io/2022/01/02/accounts/</loc>
-    
-    <lastmod>2022-04-16</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://nostopskill.github.io/2021/10/25/hdc2021harmonyos-bai-xiao-lian-dong-gong-kai-ke/</loc>
     
     <lastmod>2022-04-16</lastmod>
@@ -200,13 +191,6 @@
 
   
   <url>
-    <loc>https://nostopskill.github.io/tags/%E5%8A%A0%E5%AF%86%E6%96%87%E7%AB%A0tag/</loc>
-    <lastmod>2022-04-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://nostopskill.github.io/tags/CTF%E5%AD%A6%E4%B9%A0%E7%BD%91%E7%AB%99/</loc>
     <lastmod>2022-04-16</lastmod>
     <changefreq>weekly</changefreq>
@@ -270,13 +254,6 @@
   </url>
   
 
-  
-  <url>
-    <loc>https://nostopskill.github.io/categories/hide/</loc>
-    <lastmod>2022-04-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
   
   <url>
     <loc>https://nostopskill.github.io/categories/%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8/</loc>
